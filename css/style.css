@@ -1,0 +1,23 @@
+#main-header {
+  height: 100vh;
+}
+
+.main {
+  background: linear-gradient(rgba(2, 2, 2, 0.7), rgba(0, 0, 0, 0.7)), url("../img/landscap.jpg") fixed center center;
+  background-size: cover;
+}
+.main-row {
+  height: 500px;
+}
+
+
+.container h4{
+  color: #900;
+}
+
+.main-last {
+  height: 800px;
+  padding-top: 50px;
+  background: linear-gradient(rgba(2, 2, 2, 0.7), rgba(0, 0, 0, 0.7)), url("../img/bgbottom.jpg") fixed center center;
+  background-size: cover;
+}
